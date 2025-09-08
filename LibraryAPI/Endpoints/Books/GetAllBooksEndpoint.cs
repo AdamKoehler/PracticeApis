@@ -1,6 +1,6 @@
 using FastEndpoints;
-using LibraryAPI.Endpoints.Books;
 using LibraryAPI.Auth;
+using Asp.Versioning;
 using Serilog;
 
 namespace LibraryAPI.Endpoints.Books;
@@ -13,6 +13,8 @@ public class GetAllBooksEndpoint : EndpointWithoutRequest<IEnumerable<Book>>
     {
         _bookService = bookService;
     }
+
+    
 
     public override void Configure()
     {

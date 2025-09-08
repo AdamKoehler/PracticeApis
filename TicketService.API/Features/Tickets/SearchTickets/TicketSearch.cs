@@ -84,7 +84,7 @@ public sealed class TicketSearch
             .Build();
 
         // Version 1.0 - Basic search functionality
-        app.MapGet("/tickets", async (string? searchFor,
+        app.MapGet("/tickets", (string? searchFor,
         ILoggerFactory loggerFactory,
         ITicketSearchApiClient ticketSearchApiClient,
         CancellationToken cancellationToken) =>
@@ -105,7 +105,7 @@ public sealed class TicketSearch
         .RequireAuthorization(AuthPolicies.BeyondTrust);
 
         // Version 2.0 - Enhanced search with additional filtering options
-        app.MapGet("/tickets", async (string? searchFor, 
+        app.MapGet("/tickets", (string? searchFor, 
             string? status, 
             string? priority, 
             string? category,

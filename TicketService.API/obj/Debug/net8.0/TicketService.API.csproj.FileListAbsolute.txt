@@ -1,538 +1,303 @@
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\appsettings.Development.json
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\appsettings.json
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.staticwebassets.endpoints.json
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.exe
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.deps.json
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.runtimeconfig.json
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.pdb
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Polly.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Polly.Core.dll
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.AssemblyReference.cache
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.GeneratedMSBuildEditorConfig.editorconfig
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfoInputs.cache
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfo.cs
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.CoreCompileInputs.cache
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cache
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\scopedcss\bundle\TicketService.API.styles.css
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.development.json
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketSe.7CE36304.Up2Date
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.dll
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\refint\TicketService.API.dll
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.pdb
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.genruntimeconfig.cache
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\ref\TicketService.API.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Namotion.Reflection.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.Annotations.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.Yaml.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Annotations.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.AspNetCore.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Core.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Core.Yaml.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Generation.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
-E:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\YamlDotNet.dll
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cs
-E:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\appsettings.Development.json
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\appsettings.json
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\global.json
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.staticwebassets.endpoints.json
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.exe
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.deps.json
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.runtimeconfig.json
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\TicketService.API.pdb
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Namotion.Reflection.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.Annotations.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NJsonSchema.Yaml.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Annotations.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.AspNetCore.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Core.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Core.Yaml.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Generation.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Polly.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Polly.Core.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\System.Text.Json.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\YamlDotNet.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\TicketService\TicketService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.AssemblyReference.cache
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfoInputs.cache
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfo.cs
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.CoreCompileInputs.cache
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cs
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cache
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.sourcelink.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\scopedcss\bundle\TicketService.API.styles.css
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.development.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketSe.7CE36304.Up2Date
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.dll
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\refint\TicketService.API.dll
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.pdb
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\TicketService.API.genruntimeconfig.cache
-C:\qtDev\TicketService\TicketService.API\obj\Debug\net8.0\ref\TicketService.API.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.AssemblyReference.cache
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfoInputs.cache
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfo.cs
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.CoreCompileInputs.cache
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.sourcelink.json
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\refint\TicketService.API.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.pdb
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\appsettings.json
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\global.json
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\TicketService.API.exe
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\TicketService.API.deps.json
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\TicketService.API.runtimeconfig.json
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\TicketService.API.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\TicketService.API.pdb
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Humanizer.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Namotion.Reflection.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NJsonSchema.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NJsonSchema.Annotations.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NJsonSchema.Yaml.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NSwag.Annotations.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NSwag.AspNetCore.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NSwag.Core.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NSwag.Core.Yaml.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NSwag.Generation.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Polly.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Polly.Core.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.ClientModel.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Text.Json.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\YamlDotNet.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\staticwebassets\msbuild.TicketService.API.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TicketService.API.props
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TicketService.API.props
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TicketService.API.props
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\scopedcss\bundle\TicketService.API.styles.css
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketSe.7CE36304.Up2Date
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\TicketService.API.genruntimeconfig.cache
-C:\Users\adaml\source\GH Repos\TicketService.API\obj\Debug\net8.0\ref\TicketService.API.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\appsettings.Development.json
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\appsettings.json
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\global.json
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.staticwebassets.endpoints.json
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.exe
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.deps.json
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.runtimeconfig.json
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.pdb
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Azure.Core.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Azure.Identity.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Humanizer.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Namotion.Reflection.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.Annotations.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.Yaml.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Annotations.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NSwag.AspNetCore.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Core.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Core.Yaml.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Generation.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Polly.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Polly.Core.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.ClientModel.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.CodeDom.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Memory.Data.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Text.Json.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\YamlDotNet.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.AssemblyReference.cache
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfoInputs.cache
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfo.cs
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.CoreCompileInputs.cache
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cs
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cache
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.sourcelink.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\scopedcss\bundle\TicketService.API.styles.css
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.development.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketSe.7CE36304.Up2Date
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\refint\TicketService.API.dll
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.pdb
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.genruntimeconfig.cache
-C:\qtDev\ApiStories\VSA\TicketService.API\obj\Debug\net8.0\ref\TicketService.API.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\appsettings.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\global.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.staticwebassets.endpoints.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.exe
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.deps.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.runtimeconfig.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\TicketService.API.pdb
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Azure.Core.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Humanizer.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\MediatR.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Namotion.Reflection.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NSwag.AspNetCore.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Core.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Generation.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Polly.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Polly.Core.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\YamlDotNet.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.AssemblyReference.cache
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfoInputs.cache
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfo.cs
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.CoreCompileInputs.cache
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.sourcelink.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\scopedcss\bundle\TicketService.API.styles.css
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketSe.7CE36304.Up2Date
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\refint\TicketService.API.dll
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.pdb
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\TicketService.API.genruntimeconfig.cache
+C:\qtDev\PracticeApis\VSA\TicketService.API\obj\Debug\net8.0\ref\TicketService.API.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\appsettings.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\global.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\TicketService.API.staticwebassets.endpoints.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\TicketService.API.exe
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\TicketService.API.deps.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\TicketService.API.runtimeconfig.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\TicketService.API.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\TicketService.API.pdb
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\MediatR.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Namotion.Reflection.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NJsonSchema.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NSwag.AspNetCore.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NSwag.Core.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NSwag.Generation.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Polly.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Polly.Core.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\YamlDotNet.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.AssemblyReference.cache
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfoInputs.cache
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.AssemblyInfo.cs
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.csproj.CoreCompileInputs.cache
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.sourcelink.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\scopedcss\bundle\TicketService.API.styles.css
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketSe.7CE36304.Up2Date
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\refint\TicketService.API.dll
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.pdb
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\TicketService.API.genruntimeconfig.cache
+C:\qtDev\PraticeAPIStories\PracticeApis\TicketService.API\obj\Debug\net8.0\ref\TicketService.API.dll

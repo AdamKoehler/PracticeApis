@@ -1,6 +1,8 @@
-﻿namespace TicketService.API.Shared.Behaviors
+﻿using MediatR.Pipeline;
+
+namespace TicketService.API.Shared.Behaviors
 {
-    public class LoggingBehavior<TRequest>(ILogger<TRequest> logger) : IRequestPreProccessor<TRequest>
+    public class LoggingBehavior<TRequest>(ILogger<TRequest> logger) : IRequestPreProcessor<TRequest>
         where TRequest : notnull
     {
         private readonly ILogger<TRequest> _logger = logger;

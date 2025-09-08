@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "OiDhN+gPePxQRMNCKm30CZwETKCqMtZO1Y6gBL8bjNI=",
-  "Source": "TicketService.API",
-  "BasePath": "_content/TicketService.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"ryRuADZa4KbK7jKleNothOZ+c0z/dEpBO1imhHcydy0=","Source":"TicketService.API","BasePath":"_content/TicketService.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

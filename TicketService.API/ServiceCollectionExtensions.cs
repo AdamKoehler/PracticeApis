@@ -1,7 +1,6 @@
 ﻿using TicketService.API.Shared.Networking;
 using TicketService.API.Features.Tickets.SearchTickets;
 using System.Reflection;
-using MediatR;
 using TicketService.API.Shared.Behaviors;
 
 namespace TicketService.API;

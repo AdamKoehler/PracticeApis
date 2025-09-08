@@ -2,6 +2,7 @@ using FastEndpoints;
 using LibraryAPI.Endpoints.Books;
 using LibraryAPI.Auth;
 using Microsoft.AspNetCore.Authentication.Negotiate;
+using Asp.Versioning;
 using Serilog;
 
 // Configure Serilog
@@ -12,7 +13,6 @@ Log.Logger = new LoggerConfiguration()
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add Serilog to the logging pipeline
 builder.Host.UseSerilog();
 
 // Add services to the container
@@ -28,6 +28,14 @@ builder.Services.AddAuthorization(options =>
     options.FallbackPolicy = options.DefaultPolicy;
 });
 builder.Services.AddAuthorizationBuilder().AddPolicy(AuthPolicies.BeyondTrust, policy => policy.RequireRole(AuthRoles.BeyondTrust));
+
+builder.Services.AddApiVersioning(options =>
+{
+    options.DefaultApiVersion = new ApiVersion(1, 0);
+    options.AssumeDefaultVersionWhenUnspecified = true;
+    options.ReportApiVersions = true;
+    options.ApiVersionReader = new QueryStringApiVersionReader("api-version");
+});
 
 var app = builder.Build();
 

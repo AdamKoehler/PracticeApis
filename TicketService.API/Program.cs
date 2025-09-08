@@ -1,11 +1,9 @@
 using Asp.Versioning;
 using Microsoft.AspNetCore.Authentication.Negotiate;
-using Microsoft.EntityFrameworkCore;
 using Serilog;
 using TicketService.API;
 using TicketService.API.Features.Tickets.SearchTickets;
 using TicketService.API.Middleware;
-using TicketService.API.Persistance;
 using TicketService.API.Shared.Auth;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -34,11 +32,12 @@ builder.Services.AddApiVersioning(options =>
 
 builder.Services.RegisterApplicationServices();
 builder.Services.RegisterPersistenceServices();
+
 // DB Context
 // View localDB info via powershell command: sqllocaldb i MSSQLLocalDB
 // "DefaultConnection" is configured in appsettings.json
-builder.Services.AddDbContext<TicketDB>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// builder.Services.AddDbContext<TicketDB>(options =>
+    //options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // add authentication and authorization to container
 builder.Services.AddAuthentication(NegotiateDefaults.AuthenticationScheme).AddNegotiate();
