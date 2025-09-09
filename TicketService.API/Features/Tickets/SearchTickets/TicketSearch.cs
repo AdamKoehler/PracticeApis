@@ -1,7 +1,6 @@
 using Asp.Versioning;
 using TicketService.API.Shared.Auth;
 using TicketService.API.Shared.Domain.Models;
-using TicketService.API.Shared.Networking;
 
 namespace TicketService.API.Features.Tickets.SearchTickets;
 
@@ -83,34 +82,26 @@ public sealed class TicketSearch
             .HasApiVersion(new ApiVersion(2, 0))
             .Build();
 
-        // Version 1.0 - Basic search functionality
-        app.MapGet("/tickets", (string? searchFor,
+        // Version 1.0 - Basic search all functionality
+        app.MapGet("/tickets", (
         ILoggerFactory loggerFactory,
-        ITicketSearchApiClient ticketSearchApiClient,
         CancellationToken cancellationToken) =>
         {
             var logger = loggerFactory.CreateLogger(typeof(TicketSearch));
             logger.LogInformation("Ticket Search API v1.0 Called");
 
-            var filteredTickets = tickets.Where(t =>
-            searchFor == null ||
-            t.Title.Contains(searchFor, StringComparison.OrdinalIgnoreCase) ||
-            (t.Description != null && t.Description.Contains(searchFor, StringComparison.OrdinalIgnoreCase)) ||
-            t.Category.Contains(searchFor, StringComparison.OrdinalIgnoreCase));
-
-            return Results.Ok(filteredTickets);
+            return Results.Ok(tickets);
         })
         .WithApiVersionSet(ticketsVersionSet)
         .MapToApiVersion(1, 0)
         .RequireAuthorization(AuthPolicies.BeyondTrust);
 
-        // Version 2.0 - Enhanced search with additional filtering options
+        // Version 2.0 - Search with some linq filtering options
         app.MapGet("/tickets", (string? searchFor, 
             string? status, 
             string? priority, 
             string? category,
             ILoggerFactory loggerFactory,
-            ITicketSearchApiClient ticketSearchApiClient,
             CancellationToken cancellationToken) =>
         {
             var logger = loggerFactory.CreateLogger(typeof(TicketSearch));
@@ -125,27 +116,6 @@ public sealed class TicketSearch
                     t.Title.Contains(searchFor, StringComparison.OrdinalIgnoreCase) ||
                     (t.Description != null && t.Description.Contains(searchFor, StringComparison.OrdinalIgnoreCase)) ||
                     t.Category.Contains(searchFor, StringComparison.OrdinalIgnoreCase));
-            }
-
-            // Apply status filter
-            if (!string.IsNullOrEmpty(status))
-            {
-                filteredTickets = filteredTickets.Where(t => 
-                    t.Status.Equals(status, StringComparison.OrdinalIgnoreCase));
-            }
-
-            // Apply priority filter
-            if (!string.IsNullOrEmpty(priority))
-            {
-                filteredTickets = filteredTickets.Where(t => 
-                    t.Priority.Equals(priority, StringComparison.OrdinalIgnoreCase));
-            }
-
-            // Apply category filter
-            if (!string.IsNullOrEmpty(category))
-            {
-                filteredTickets = filteredTickets.Where(t => 
-                    t.Category.Equals(category, StringComparison.OrdinalIgnoreCase));
             }
 
             return Results.Ok(filteredTickets.ToList());

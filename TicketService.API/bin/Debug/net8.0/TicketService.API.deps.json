@@ -13,7 +13,6 @@
           "Microsoft.AspNetCore.Authentication.Negotiate": "8.0.8",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.8",
           "NSwag.AspNetCore": "14.0.3",
-          "Polly": "8.3.0",
           "Serilog.AspNetCore": "9.0.0"
         },
         "runtime": {
@@ -499,25 +498,6 @@
           "lib/net8.0/NSwag.Generation.AspNetCore.dll": {
             "assemblyVersion": "14.0.3.0",
             "fileVersion": "14.0.3.0"
-          }
-        }
-      },
-      "Polly/8.3.0": {
-        "dependencies": {
-          "Polly.Core": "8.3.0"
-        },
-        "runtime": {
-          "lib/net6.0/Polly.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.3.0.3097"
-          }
-        }
-      },
-      "Polly.Core/8.3.0": {
-        "runtime": {
-          "lib/net8.0/Polly.Core.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.3.0.3097"
           }
         }
       },
@@ -1239,20 +1219,6 @@
       "sha512": "sha512-mMixV2r4/nl8j+7QtkS/5ig5E+5fLhwlTeoMTfdNVY7J9ggyS/xVZlBrgqtgLt9a9gvkNaZMrLu2jacjOvZcqg==",
       "path": "nswag.generation.aspnetcore/14.0.3",
       "hashPath": "nswag.generation.aspnetcore.14.0.3.nupkg.sha512"
-    },
-    "Polly/8.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-vqAQmLO1gZcS8Ox9Ky+hrq0HxYrYVSBS1vzv6o6RZH3vvECutngIxkUHw9YijbG0QrycxvHo0Hbx0/D7MGgdow==",
-      "path": "polly/8.3.0",
-      "hashPath": "polly.8.3.0.nupkg.sha512"
-    },
-    "Polly.Core/8.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-A3r4xkWasffyrIJGjA3jWQi86ZGcR9BEbpIIoP9xYRAKYwiaGbKpqpsHdWv5sCeLZdaWpVs7pc4EM8Tei+LluA==",
-      "path": "polly.core/8.3.0",
-      "hashPath": "polly.core.8.3.0.nupkg.sha512"
     },
     "Serilog/4.2.0": {
       "type": "package",

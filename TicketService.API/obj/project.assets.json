@@ -788,35 +788,6 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Polly/8.3.0": {
-        "type": "package",
-        "dependencies": {
-          "Polly.Core": "8.3.0"
-        },
-        "compile": {
-          "lib/net6.0/Polly.dll": {
-            "related": ".pdb"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Polly.dll": {
-            "related": ".pdb"
-          }
-        }
-      },
-      "Polly.Core/8.3.0": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/Polly.Core.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Polly.Core.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
       "Serilog/4.2.0": {
         "type": "package",
         "compile": {
@@ -2762,55 +2733,6 @@
         "lib/netstandard2.0/NSwag.Generation.AspNetCore.xml",
         "nswag.generation.aspnetcore.14.0.3.nupkg.sha512",
         "nswag.generation.aspnetcore.nuspec"
-      ]
-    },
-    "Polly/8.3.0": {
-      "sha512": "vqAQmLO1gZcS8Ox9Ky+hrq0HxYrYVSBS1vzv6o6RZH3vvECutngIxkUHw9YijbG0QrycxvHo0Hbx0/D7MGgdow==",
-      "type": "package",
-      "path": "polly/8.3.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net462/Polly.dll",
-        "lib/net462/Polly.pdb",
-        "lib/net472/Polly.dll",
-        "lib/net472/Polly.pdb",
-        "lib/net6.0/Polly.dll",
-        "lib/net6.0/Polly.pdb",
-        "lib/netstandard2.0/Polly.dll",
-        "lib/netstandard2.0/Polly.pdb",
-        "package-icon.png",
-        "package-readme.md",
-        "polly.8.3.0.nupkg.sha512",
-        "polly.nuspec"
-      ]
-    },
-    "Polly.Core/8.3.0": {
-      "sha512": "A3r4xkWasffyrIJGjA3jWQi86ZGcR9BEbpIIoP9xYRAKYwiaGbKpqpsHdWv5sCeLZdaWpVs7pc4EM8Tei+LluA==",
-      "type": "package",
-      "path": "polly.core/8.3.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net462/Polly.Core.dll",
-        "lib/net462/Polly.Core.pdb",
-        "lib/net462/Polly.Core.xml",
-        "lib/net472/Polly.Core.dll",
-        "lib/net472/Polly.Core.pdb",
-        "lib/net472/Polly.Core.xml",
-        "lib/net6.0/Polly.Core.dll",
-        "lib/net6.0/Polly.Core.pdb",
-        "lib/net6.0/Polly.Core.xml",
-        "lib/net8.0/Polly.Core.dll",
-        "lib/net8.0/Polly.Core.pdb",
-        "lib/net8.0/Polly.Core.xml",
-        "lib/netstandard2.0/Polly.Core.dll",
-        "lib/netstandard2.0/Polly.Core.pdb",
-        "lib/netstandard2.0/Polly.Core.xml",
-        "package-icon.png",
-        "package-readme.md",
-        "polly.core.8.3.0.nupkg.sha512",
-        "polly.core.nuspec"
       ]
     },
     "Serilog/4.2.0": {
@@ -4783,30 +4705,27 @@
       "Microsoft.AspNetCore.Authentication.Negotiate >= 8.0.8",
       "Microsoft.EntityFrameworkCore.InMemory >= 9.0.8",
       "NSwag.AspNetCore >= 14.0.3",
-      "Polly >= 8.3.0",
       "Serilog.AspNetCore >= 9.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adkoehler\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\adaml\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\qtDev\\PraticeAPIStories\\PracticeApis\\TicketService.API\\TicketService.API.csproj",
+      "projectUniqueName": "C:\\Users\\adaml\\source\\GH Repos\\TicketService.API\\TicketService.API.csproj",
       "projectName": "TicketService.API",
-      "projectPath": "C:\\qtDev\\PraticeAPIStories\\PracticeApis\\TicketService.API\\TicketService.API.csproj",
-      "packagesPath": "C:\\Users\\adkoehler\\.nuget\\packages\\",
-      "outputPath": "C:\\qtDev\\PraticeAPIStories\\PracticeApis\\TicketService.API\\obj\\",
+      "projectPath": "C:\\Users\\adaml\\source\\GH Repos\\TicketService.API\\TicketService.API.csproj",
+      "packagesPath": "C:\\Users\\adaml\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adaml\\source\\GH Repos\\TicketService.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\adkoehler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adaml\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4815,9 +4734,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/quiktrip/_packaging/QT.Internal/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -4834,8 +4751,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -4861,10 +4777,6 @@
             "target": "Package",
             "version": "[14.0.3, )"
           },
-          "Polly": {
-            "target": "Package",
-            "version": "[8.3.0, )"
-          },
           "Serilog.AspNetCore": {
             "target": "Package",
             "version": "[9.0.0, )"
@@ -4889,7 +4801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

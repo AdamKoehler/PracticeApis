@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Authentication.Negotiate;
 using Serilog;
 using TicketService.API;
 using TicketService.API.Features.Tickets.SearchTickets;
-using TicketService.API.Middleware;
 using TicketService.API.Shared.Auth;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +11,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Host.UseSerilog((context, loggerConfig) =>
     loggerConfig.ReadFrom.Configuration(context.Configuration));
 
-builder.Services.AddHttpClient();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddOpenApiDocument();
 
@@ -33,11 +31,8 @@ builder.Services.AddApiVersioning(options =>
 builder.Services.RegisterApplicationServices();
 builder.Services.RegisterPersistenceServices();
 
-// DB Context
-// View localDB info via powershell command: sqllocaldb i MSSQLLocalDB
-// "DefaultConnection" is configured in appsettings.json
-// builder.Services.AddDbContext<TicketDB>(options =>
-    //options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// Log assembly information to file using reflection
+TicketService.API.ServiceCollectionExtensions.LogAssemblyInfoToFile();
 
 // add authentication and authorization to container
 builder.Services.AddAuthentication(NegotiateDefaults.AuthenticationScheme).AddNegotiate();
@@ -62,7 +57,6 @@ else
 app.UseStatusCodePages();
 
 // serilog hook into http request pipeline
-app.UseMiddleware<RequestLogContextMiddleware>();
 app.UseSerilogRequestLogging();
 
 // Add endpoint
